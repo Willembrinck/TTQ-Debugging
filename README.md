@@ -1,4 +1,12 @@
-# SeekerDebugger
+# SeekerDebugger For Time-Traveling Queries Poster GDR GLP 2022
+
+## Poster:
+
+
+
+## Video Introduction/Demo
+
+https://drive.google.com/file/d/12MlQZO9X1WN7e1LUqm5p0E-x8VJXQz0h/view?usp=sharing
 
 ## Baseline
 
