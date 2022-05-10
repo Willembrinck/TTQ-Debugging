@@ -22,6 +22,10 @@ Metacello new
 
 The rest of the readme is not up do date. The debugger is currently under constant changes. The readme will be updated when reaching a stable point.
 
+### Main project repository
+
+https://github.com/maxwills/SeekerDebugger
+
 Requires the following projects (installed automatically with this Seeker Baseline):
 
 - https://github.com/maxwills/auto-type
