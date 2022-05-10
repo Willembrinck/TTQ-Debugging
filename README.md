@@ -2,11 +2,10 @@
 
 ## Poster
 
-[View Poster](/raw/main/Resources/PosterTTQ_GDR_GLP.pdf)
+[View Poster](https://github.com/Willembrinck/TTQ-Debugging/raw/main/Resources/PosterTTQ_GDR_GLP.pdf)
 
 ## Video Introduction/Demo
-
-https://drive.google.com/file/d/12MlQZO9X1WN7e1LUqm5p0E-x8VJXQz0h/view?usp=sharing
+[View Video](https://drive.google.com/file/d/12MlQZO9X1WN7e1LUqm5p0E-x8VJXQz0h/view?usp=sharing)
 
 ## Baseline
 
