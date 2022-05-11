@@ -22,4 +22,6 @@ Metacello new
 
 ### Main project repository
 
+More information in the debugger project dedicated repository:
+
 https://github.com/maxwills/SeekerDebugger
