@@ -5,7 +5,13 @@
 [View Poster](https://github.com/Willembrinck/TTQ-Debugging/raw/main/Resources/PosterTTQ_GDR_GLP.pdf)
 
 ## Video Introduction/Demo
+
 [View Video](https://drive.google.com/file/d/12MlQZO9X1WN7e1LUqm5p0E-x8VJXQz0h/view?usp=sharing)
+
+[Video - Slower silent demo with captions](https://drive.google.com/file/d/1vc97XggNn43VJl8Afs8W97QLJ0OgRYud/view?usp=sharing)
+
+[Video Original Speed with Captions](https://drive.google.com/file/d/1LlNiDW1qqXTD-asBLoMGnfSSJXO7nTDg/view?usp=sharing)
+
 
 ## Time-Traveling Debugger Code - Baseline
 
