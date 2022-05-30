@@ -1,4 +1,4 @@
-# Time-Traveling Queries Poster GDR GLP 2022
+# Time-Traveling Queries Poster GDR GPL 2022
 
 ## Poster
 
@@ -11,6 +11,10 @@
 [Video - Slower silent demo with captions](https://drive.google.com/file/d/1vc97XggNn43VJl8Afs8W97QLJ0OgRYud/view?usp=sharing)
 
 [Video Original Speed with Captions](https://drive.google.com/file/d/1LlNiDW1qqXTD-asBLoMGnfSSJXO7nTDg/view?usp=sharing)
+
+## Reference publication
+
+TOD: Add the QRS paper
 
 
 ## Time-Traveling Debugger Code - Baseline
