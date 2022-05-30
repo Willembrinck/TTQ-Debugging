@@ -2,7 +2,7 @@
 
 ## Poster
 
-[View Poster](https://github.com/Willembrinck/TTQ-Debugging/raw/main/Resources/PosterTTQ_GDR_GLP.pdf)
+[View Poster](https://github.com/Willembrinck/TTQ-Debugging/raw/main/Resources/PosterTTQ_GDRGPL_A0.pdf)
 
 ## Video Introduction/Demo
 
