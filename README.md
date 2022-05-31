@@ -12,10 +12,10 @@
 
 [Video Original Speed with Captions](https://drive.google.com/file/d/1LlNiDW1qqXTD-asBLoMGnfSSJXO7nTDg/view?usp=sharing)
 
-## Reference publication
+## Referenced publication
 
-TOD: Add the QRS paper
-
+[Time-Traveling Debugging Queries: Faster Program Exploration @ IEEE](https://ieeexplore.ieee.org/document/9724738)
+[Pre-print version](https://ieeexplore.ieee.org/document/9724738)
 
 ## Time-Traveling Debugger Code - Baseline
 
