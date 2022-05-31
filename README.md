@@ -14,8 +14,8 @@
 
 ## Referenced publication
 
-[Time-Traveling Debugging Queries: Faster Program Exploration @ IEEE](https://ieeexplore.ieee.org/document/9724738)
-[Pre-print version](https://ieeexplore.ieee.org/document/9724738)
+* [Time-Traveling Debugging Queries: Faster Program Exploration @ IEEE](https://ieeexplore.ieee.org/document/9724738)  
+* [Pre-print version](https://hal.inria.fr/hal-03463047/)
 
 ## Time-Traveling Debugger Code - Baseline
 
